@@ -17,6 +17,12 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-size: 40px;
+  font-family: serif;
+  text-align: center;
+}
+
 #container {
   display: flex;
   flex-wrap: wrap;
